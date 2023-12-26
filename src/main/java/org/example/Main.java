@@ -5,8 +5,7 @@ package org.example;
 public class Main {
   public static void main(String[] args) {
     System.out.println(
-        new App().plus(a:10, b:20)
+        new App().plus(10,20)
     );
   }
-
 }
